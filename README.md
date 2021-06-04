@@ -1,21 +1,36 @@
-<h1 align="center">Hi 👋, I'm Aadyaa Srivastava</h1>
+<h1 align="center">Hi 👋, I'm Aadyaa Srivastava
 <h3 align="center">A passionate Multilingual Engineer who loves to explore and learn new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadyaasrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="aadyaasrivastava" /> </p>
+   <iframe src="https://giphy.com/embed/AYMKkDwavwA9Y72Frn" width="75" height="75" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-coding-coder-space-AYMKkDwavwA9Y72Frn"  width="75"></a></p> 
+</h1>
+<p align="center"> 
+    <iframe src="https://giphy.com/embed/ekjmhJUGHJm7FC4Juo" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-programming-software-engineering-ekjmhJUGHJm7FC4Juo"></a></p>
+</p>
 
-<p align="left"> <a href="https://twitter.com/aadyaasrivasta1" target="blank"><img src="https://img.shields.io/twitter/follow/aadyaasrivasta1?logo=twitter&style=for-the-badge" alt="aadyaasrivasta1" /></a> </p>
+<h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Who am I?</h2>
+<p align="center">
+  <samp>
+Sophomore at Maharaja Agrasen University and pursuing my Bachelors in Computer Science and Engineering. I am a self taught pragmatic programmer . who loves to  creat major and minor projects with an aim in the mind to make the life of living beings on earth more comfortable so that every creature on earth is benifitiesd from it.I played the role of  Technical/ Content Writer at NGO based in Cgandigarh India to use my words in marking the start of change as there I helped to break down social taboos and infact I promoted intrested females in tech to come forward and take chance to establish  and explore themselves.I am also a Microsoft Learn Student Ambassador - βeta. I have knowledge and experience in <strong> C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development </strong> .</samp>
+
+</p>
+<hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imsushant12&label=Profile%20views&color=orange&style=flat" alt="imsushant12" /></p>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px">
 
 - 🌱 I’m currently learning **Angular, MongoDB**
 
 - 📝 I regularly write articles on [https://readwithaadyaa.hashnode.dev/](https://readwithaadyaa.hashnode.dev/)
 
 - 📫 How to reach me **aadyaasrivastava@hotmail.com**
-
+- 💬 Feel free to connect with me on my social media handles.We can surely have a coffee and discuss our ideas.
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/18b4PhcNYs09kUtbIMqQ-8H-VHteZJwzM/view?usp=sharing)
+  <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aadyaasrivasta1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="aadyaasrivasta1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aadyaa-srivastava-a722a1184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aadyaa-srivastava-a722a1184/" height="30" width="40" /></a>
-<a href="https://instagram.com/missc.oder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="missc.oder" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aadyaa-srivastava-a722a1184/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Aadyaa-Srivastava" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14770726/aadyaa-srivastava" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/15053615/sushant" height="30" width="40" /></a>
+<a href="https://www.instagram.com/missc.oder/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_im_sushant" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
