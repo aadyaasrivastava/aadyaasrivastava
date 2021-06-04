@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aadyaa Srivastava
 <h3 align="center">A passionate Multilingual Engineer who loves to explore and learn new technologies.</h3>
-
-   <iframe src="https://giphy.com/embed/AYMKkDwavwA9Y72Frn" width="75" height="75" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-coding-coder-space-AYMKkDwavwA9Y72Frn"  width="75"></a></p> 
 </h1>
+<p align="center"> 
+    <iframe src="https://giphy.com/embed/AYMKkDwavwA9Y72Frn" width="75" height="75" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-coding-coder-space-AYMKkDwavwA9Y72Frn"  width="75"></a></p> 
+</p>
+  
+
 <p align="center"> 
     <iframe src="https://giphy.com/embed/ekjmhJUGHJm7FC4Juo" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-programming-software-engineering-ekjmhJUGHJm7FC4Juo"></a></p>
 </p>
