@@ -2,24 +2,15 @@
 <h3 align="center">A passionate Multilingual Engineer who loves to explore and learn new technologies.</h3>
 </h1>
 <p align="center"> 
-    <iframe src="https://giphy.com/embed/AYMKkDwavwA9Y72Frn" width="75" height="75" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-coding-coder-space-AYMKkDwavwA9Y72Frn"  width="75"></a></p> 
-</p>
-  
-
-<p align="center"> 
-    <iframe src="https://giphy.com/embed/ekjmhJUGHJm7FC4Juo" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-programming-software-engineering-ekjmhJUGHJm7FC4Juo"></a></p>
-</p>
-
-<h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Who am I?</h2>
+<img align="center" alt="GIF" src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif"/>
+    
+ </p>
 <p align="center">
   <samp>
 Sophomore at Maharaja Agrasen University and pursuing my Bachelors in Computer Science and Engineering. I am a self taught pragmatic programmer . who loves to  creat major and minor projects with an aim in the mind to make the life of living beings on earth more comfortable so that every creature on earth is benifitiesd from it.I played the role of  Technical/ Content Writer at NGO based in Cgandigarh India to use my words in marking the start of change as there I helped to break down social taboos and infact I promoted intrested females in tech to come forward and take chance to establish  and explore themselves.I am also a Microsoft Learn Student Ambassador - βeta. I have knowledge and experience in <strong> C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development </strong> .</samp>
 
 </p>
 <hr>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imsushant12&label=Profile%20views&color=orange&style=flat" alt="imsushant12" /></p>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px">
-
 - 🌱 I’m currently learning **Angular, MongoDB**
 
 - 📝 I regularly write articles on [https://readwithaadyaa.hashnode.dev/](https://readwithaadyaa.hashnode.dev/)
