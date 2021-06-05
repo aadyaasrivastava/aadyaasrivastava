@@ -4,6 +4,8 @@
 <p align="center"> 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif"/>
     
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadyaasrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="aadyaasrivastava" /> </p>
+    
  </p>
 <p align="center">
   <samp>
