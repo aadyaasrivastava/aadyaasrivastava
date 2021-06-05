@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Aadyaa Srivastava
-<h3 align="center">A passionate Multilingual Engineer who loves to explore and learn new technologies.</h3>
-</h1>
-<p align="center"> 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif"/>
+<h1 align="center">Hi 👋, I'm Aadyaa Srivastava</h1>
+<h2 align="center">A passionate Multilingual Engineer who loves to explore and learn new technologies.</h2>
+
     
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadyaasrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="aadyaasrivastava" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadyaasrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="aadyaasrivastava" /> </p>
+
+
     
- </p>
+<!--<p align="center"> <img align="center" alt="GIF" src="https://media.giphy.com/media/Pmjl3KJ5Z0rfdGc3a4/giphy.gif"/> 
+</p>-->
+
+
 <p align="center">
   <samp>
-Sophomore at Maharaja Agrasen University and pursuing my Bachelors in Computer Science and Engineering. I am a self taught pragmatic programmer . who loves to  creat major and minor projects with an aim in the mind to make the life of living beings on earth more comfortable so that every creature on earth is benifitiesd from it.I played the role of  Technical/ Content Writer at NGO based in Cgandigarh India to use my words in marking the start of change as there I helped to break down social taboos and infact I promoted intrested females in tech to come forward and take chance to establish  and explore themselves.I am also a Microsoft Learn Student Ambassador - βeta. I have knowledge and experience in <strong> C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development </strong> .</samp>
+Sophomore at Maharaja Agrasen University and pursuing my Bachelors in Computer Science and Engineering. I am a self taught pragmatic programmer . who loves to  creat major and minor projects with an aim in the mind to make the life of living beings on earth more comfortable so that every creature on earth is benifitiesd from it.I played the role of  Technical/ Content Writer at NGO based in Chandigarh India to use my words in marking the start of change as there I helped to break down social taboos and infact I promoted intrested females in tech to come forward and take chance to establish  and explore themselves.I am also a Microsoft Learn Student Ambassador - βeta. I have knowledge and experience in <strong> C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development </strong> .</samp>
 
 </p>
 <hr>
