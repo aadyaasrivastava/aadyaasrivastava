@@ -4,9 +4,9 @@
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadyaasrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="aadyaasrivastava" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<p align="centre"> <img align="center" alt="GIF" src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif"> 
-</p>
+
 
 
 <p align="center">
