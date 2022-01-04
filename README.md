@@ -11,7 +11,7 @@
 
 <p align="center">
   <samp>
-Sophomore at Maharaja Agrasen University and pursuing my Bachelors in Computer Science and Engineering. I am a self taught pragmatic programmer . who loves to  creat major and minor projects with an aim in the mind to make the life of living beings on earth more comfortable so that every creature on earth is benifitiesd from it.I played the role of  Technical/ Content Writer at NGO based in Chandigarh India to use my words in marking the start of change as there I helped to break down social taboos and infact I promoted intrested females in tech to come forward and take chance to establish  and explore themselves.I am also a Microsoft Learn Student Ambassador - βeta. I have knowledge and experience in <strong> C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development </strong> .</samp>
+Junior year at Maharaja Agrasen University and pursuing my Bachelors in Computer Science and Engineering. I am a self taught pragmatic programmer . who loves to  creat major and minor projects with an aim in the mind to make the life of living beings on earth more comfortable so that every creature on earth is benifitiesd from it.I played the role of  Technical/ Content Writer at NGO based in Chandigarh India to use my words in marking the start of change as there I helped to break down social taboos and infact I promoted intrested females in tech to come forward and take chance to establish  and explore themselves.I am also a Microsoft Learn Student Ambassador - βeta. I have knowledge and experience in <strong> C/C++, Python, Data Structures, Algorithm, Technical Content Writing and Front End Web Development </strong> .</samp>
 
 </p>
 <hr>
