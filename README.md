@@ -18,10 +18,13 @@ Senior year at Maharaja Agrasen University and pursuing my bachelor's in Compute
 - 🌱 I’m currently learning **Angular, MongoDB**
 
 - 📝 I regularly write articles on [https://readwithaadyaa.hashnode.dev/](https://readwithaadyaa.hashnode.dev/)
-
-- 📫 How to reach me **aadyaasrivastava@hotmail.com**
+ 
+- 📫  Mail me on [Gmail](mailto:srivastavaaadyaa@gmail.com)
 - 💬 Feel free to connect with me on my social media handles.We can surely have a coffee and discuss our ideas.
 - 📄 Checkout my [Resume](https://drive.google.com/file/d/18b4PhcNYs09kUtbIMqQ-8H-VHteZJwzM/view?usp=sharing)
+- 💬 Connect me on [Linkedin](https://www.linkedin.com/in/aadyaa-srivastava-a722a1184/)
+ - Checkout my videos on [Youtube](https://www.youtube.com/channel/UC8cRpbsqHlmwXSbyKr41sUQ/)
+
   <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
